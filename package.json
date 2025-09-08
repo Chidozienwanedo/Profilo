@@ -29,6 +29,10 @@
     "eslint-plugin-react-refresh": "^0.4.20",
     "gh-pages": "^6.3.0",
     "globals": "^16.3.0",
+<<<<<<< HEAD
+=======
+    "postcss": "^8.5.6",
+>>>>>>> a1f85536504bbf0b0767e82599e4fe485d4a5d74
     "tailwindcss": "^4.1.13"
   },
   "homepage": "https://chidozienwanedo.github.io/Profilo/"
